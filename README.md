@@ -1,1 +1,1 @@
-# XXLChess
+My university assignment
