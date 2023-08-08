@@ -1,0 +1,23 @@
+{
+  "layout": "level1.txt",
+  "time_controls": {
+    "player": {
+      "seconds": 180,
+      "increment": 2
+    },
+    "cpu": {
+      "seconds": 180,
+      "increment": 2
+    }
+  },
+  "enemy": "cpu",
+  "player_colour": "white",
+  "piece_movement_speed": 6.0,
+  "max_movement_time": 1,
+  "SPRITESIZE" : 480,
+  "CELLSIZE" : 48,
+  "SIDEBAR" : 120,
+  "BOARD_WIDTH" : 14,
+  "FPS" : 60
+}
+
